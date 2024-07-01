@@ -13,6 +13,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "bl": "^6.0.13",
     "ts-debounce": "^4.0.0"
   }
 }
